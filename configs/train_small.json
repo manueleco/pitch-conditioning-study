@@ -1,0 +1,30 @@
+{
+  "seed": 7,
+  "device": "cpu",
+  "num_epochs": 8,
+  "batch_size": 16,
+  "sequence_length": 100,
+  "batches_per_epoch": 20,
+  "learning_rate": 0.003,
+  "hidden_size": 96,
+  "num_layers": 2,
+  "cascade_mode": "hard",
+  "temperature": 0.8,
+  "top_n": 8,
+  "tau_soft": 0.6,
+  "save_interval": 4,
+  "val_interval": 1,
+  "files_per_sequence": 2,
+  "add_noise": false,
+  "noise_weight": 0.0,
+  "dropout": 0.1,
+  "use_tensorboard": true,
+  "use_tqdm": false,
+  "train_splits": [
+    "train"
+  ],
+  "val_splits": [
+    "validation"
+  ]
+}
+

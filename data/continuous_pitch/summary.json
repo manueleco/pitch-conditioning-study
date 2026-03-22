@@ -1,0 +1,54 @@
+{
+  "mode": "continuous",
+  "pitch_levels": [
+    {
+      "value": -1.0,
+      "label": "down_1",
+      "display": "-1.0"
+    },
+    {
+      "value": -0.5,
+      "label": "down_0_5",
+      "display": "-0.5"
+    },
+    {
+      "value": 0.0,
+      "label": "center",
+      "display": "0.0"
+    },
+    {
+      "value": 0.5,
+      "label": "up_0_5",
+      "display": "0.5"
+    },
+    {
+      "value": 1.0,
+      "label": "up_1",
+      "display": "1.0"
+    }
+  ],
+  "splits": {
+    "train": {
+      "files": 21,
+      "pitch_counts": {
+        "center": 19058,
+        "down_0_5": 9586,
+        "up_0_5": 7766,
+        "up_1": 3866
+      }
+    },
+    "validation": {
+      "files": 4,
+      "pitch_counts": {
+        "center": 7648
+      }
+    },
+    "test": {
+      "files": 5,
+      "pitch_counts": {
+        "down_1": 3730,
+        "center": 5787
+      }
+    }
+  }
+}

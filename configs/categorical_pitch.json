@@ -1,0 +1,12 @@
+{
+  "name": "categorical_pitch",
+  "dataset_root": "data/two_bar_categorical_pitch",
+  "conditioning_mode": "categorical_one_hot",
+  "source_dataset": "data/two_bar_pitch_source/raw",
+  "epochs_recommended": 8,
+  "sequence_length": 100,
+  "notes": [
+    "Usar exactamente el mismo audio que en la version continua",
+    "Cambiar solo la representacion del parametro pitch_shift"
+  ]
+}

@@ -1,0 +1,1302 @@
+[
+  {
+    "source_file": "Fur_elise_3.wav",
+    "output_file": "Fur_elise_3__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.623379,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_3.wav",
+    "output_file": "Fur_elise_3__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.623379,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_3.wav",
+    "output_file": "Fur_elise_3__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.623379,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_3.wav",
+    "output_file": "Fur_elise_3__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.623379,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_3.wav",
+    "output_file": "Fur_elise_3__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.623379,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_4.wav",
+    "output_file": "Fur_elise_4__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.588549,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_4.wav",
+    "output_file": "Fur_elise_4__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.588549,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_4.wav",
+    "output_file": "Fur_elise_4__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.588549,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_4.wav",
+    "output_file": "Fur_elise_4__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.588549,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_4.wav",
+    "output_file": "Fur_elise_4__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.588549,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_5.wav",
+    "output_file": "Fur_elise_5__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 1.180658,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_5.wav",
+    "output_file": "Fur_elise_5__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 1.180658,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_5.wav",
+    "output_file": "Fur_elise_5__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 1.180658,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_5.wav",
+    "output_file": "Fur_elise_5__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 1.180658,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_5.wav",
+    "output_file": "Fur_elise_5__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 1.180658,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_6.wav",
+    "output_file": "Fur_elise_6__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.669819,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_6.wav",
+    "output_file": "Fur_elise_6__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.669819,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_6.wav",
+    "output_file": "Fur_elise_6__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.669819,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_6.wav",
+    "output_file": "Fur_elise_6__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.669819,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_6.wav",
+    "output_file": "Fur_elise_6__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.669819,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_7.wav",
+    "output_file": "Fur_elise_7__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 3.456213,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_7.wav",
+    "output_file": "Fur_elise_7__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 3.456213,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_7.wav",
+    "output_file": "Fur_elise_7__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 3.456213,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_7.wav",
+    "output_file": "Fur_elise_7__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 3.456213,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_7.wav",
+    "output_file": "Fur_elise_7__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 3.456213,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_8.wav",
+    "output_file": "Fur_elise_8__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.144286,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_8.wav",
+    "output_file": "Fur_elise_8__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.144286,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_8.wav",
+    "output_file": "Fur_elise_8__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.144286,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_8.wav",
+    "output_file": "Fur_elise_8__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.144286,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_8.wav",
+    "output_file": "Fur_elise_8__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.144286,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_10.wav",
+    "output_file": "Fur_elise_10__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.190726,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_10.wav",
+    "output_file": "Fur_elise_10__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.190726,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_10.wav",
+    "output_file": "Fur_elise_10__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.190726,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_10.wav",
+    "output_file": "Fur_elise_10__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.190726,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_10.wav",
+    "output_file": "Fur_elise_10__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.190726,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_14.wav",
+    "output_file": "Fur_elise_14__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.910544,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_14.wav",
+    "output_file": "Fur_elise_14__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.910544,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_14.wav",
+    "output_file": "Fur_elise_14__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.910544,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_14.wav",
+    "output_file": "Fur_elise_14__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.910544,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_14.wav",
+    "output_file": "Fur_elise_14__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.910544,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_15.wav",
+    "output_file": "Fur_elise_15__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 4.117982,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_15.wav",
+    "output_file": "Fur_elise_15__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 4.117982,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_15.wav",
+    "output_file": "Fur_elise_15__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 4.117982,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_15.wav",
+    "output_file": "Fur_elise_15__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 4.117982,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_15.wav",
+    "output_file": "Fur_elise_15__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 4.117982,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_16.wav",
+    "output_file": "Fur_elise_16__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.933764,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_16.wav",
+    "output_file": "Fur_elise_16__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.933764,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_16.wav",
+    "output_file": "Fur_elise_16__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.933764,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_16.wav",
+    "output_file": "Fur_elise_16__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.933764,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_16.wav",
+    "output_file": "Fur_elise_16__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.933764,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_21.wav",
+    "output_file": "Fur_elise_21__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 5.557619,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_21.wav",
+    "output_file": "Fur_elise_21__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 5.557619,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_21.wav",
+    "output_file": "Fur_elise_21__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 5.557619,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_21.wav",
+    "output_file": "Fur_elise_21__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 5.557619,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_21.wav",
+    "output_file": "Fur_elise_21__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 5.557619,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_24.wav",
+    "output_file": "Fur_elise_24__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 3.641973,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_24.wav",
+    "output_file": "Fur_elise_24__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 3.641973,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_24.wav",
+    "output_file": "Fur_elise_24__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 3.641973,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_24.wav",
+    "output_file": "Fur_elise_24__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 3.641973,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_24.wav",
+    "output_file": "Fur_elise_24__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 3.641973,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_26.wav",
+    "output_file": "Fur_elise_26__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_26.wav",
+    "output_file": "Fur_elise_26__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_26.wav",
+    "output_file": "Fur_elise_26__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_26.wav",
+    "output_file": "Fur_elise_26__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_26.wav",
+    "output_file": "Fur_elise_26__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_27.wav",
+    "output_file": "Fur_elise_27__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_27.wav",
+    "output_file": "Fur_elise_27__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_27.wav",
+    "output_file": "Fur_elise_27__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_27.wav",
+    "output_file": "Fur_elise_27__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_27.wav",
+    "output_file": "Fur_elise_27__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 1.970136,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_28.wav",
+    "output_file": "Fur_elise_28__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.295215,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_28.wav",
+    "output_file": "Fur_elise_28__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.295215,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_28.wav",
+    "output_file": "Fur_elise_28__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.295215,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_28.wav",
+    "output_file": "Fur_elise_28__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.295215,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_28.wav",
+    "output_file": "Fur_elise_28__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.295215,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_33.wav",
+    "output_file": "Fur_elise_33__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 1.946916,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_33.wav",
+    "output_file": "Fur_elise_33__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 1.946916,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_33.wav",
+    "output_file": "Fur_elise_33__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 1.946916,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_33.wav",
+    "output_file": "Fur_elise_33__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 1.946916,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_33.wav",
+    "output_file": "Fur_elise_33__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 1.946916,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_35.wav",
+    "output_file": "Fur_elise_35__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 3.572313,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_35.wav",
+    "output_file": "Fur_elise_35__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 3.572313,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_35.wav",
+    "output_file": "Fur_elise_35__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 3.572313,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_35.wav",
+    "output_file": "Fur_elise_35__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 3.572313,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_35.wav",
+    "output_file": "Fur_elise_35__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 3.572313,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_36.wav",
+    "output_file": "Fur_elise_36__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.666735,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_36.wav",
+    "output_file": "Fur_elise_36__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.666735,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_36.wav",
+    "output_file": "Fur_elise_36__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.666735,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_36.wav",
+    "output_file": "Fur_elise_36__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.666735,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_36.wav",
+    "output_file": "Fur_elise_36__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.666735,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_38.wav",
+    "output_file": "Fur_elise_38__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_38.wav",
+    "output_file": "Fur_elise_38__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_38.wav",
+    "output_file": "Fur_elise_38__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_38.wav",
+    "output_file": "Fur_elise_38__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_38.wav",
+    "output_file": "Fur_elise_38__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_41.wav",
+    "output_file": "Fur_elise_41__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.724785,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_41.wav",
+    "output_file": "Fur_elise_41__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.724785,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_41.wav",
+    "output_file": "Fur_elise_41__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.724785,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_41.wav",
+    "output_file": "Fur_elise_41__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.724785,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_41.wav",
+    "output_file": "Fur_elise_41__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.724785,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_42.wav",
+    "output_file": "Fur_elise_42__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 4.280522,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_42.wav",
+    "output_file": "Fur_elise_42__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 4.280522,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_42.wav",
+    "output_file": "Fur_elise_42__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 4.280522,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_42.wav",
+    "output_file": "Fur_elise_42__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 4.280522,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_42.wav",
+    "output_file": "Fur_elise_42__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 4.280522,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_46.wav",
+    "output_file": "Fur_elise_46__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_46.wav",
+    "output_file": "Fur_elise_46__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_46.wav",
+    "output_file": "Fur_elise_46__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_46.wav",
+    "output_file": "Fur_elise_46__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_46.wav",
+    "output_file": "Fur_elise_46__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 2.179116,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_51.wav",
+    "output_file": "Fur_elise_51__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_51.wav",
+    "output_file": "Fur_elise_51__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_51.wav",
+    "output_file": "Fur_elise_51__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_51.wav",
+    "output_file": "Fur_elise_51__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_51.wav",
+    "output_file": "Fur_elise_51__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_52.wav",
+    "output_file": "Fur_elise_52__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.646599,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_52.wav",
+    "output_file": "Fur_elise_52__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.646599,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_52.wav",
+    "output_file": "Fur_elise_52__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.646599,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_52.wav",
+    "output_file": "Fur_elise_52__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.646599,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_52.wav",
+    "output_file": "Fur_elise_52__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.646599,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_53.wav",
+    "output_file": "Fur_elise_53__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_53.wav",
+    "output_file": "Fur_elise_53__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_53.wav",
+    "output_file": "Fur_elise_53__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_53.wav",
+    "output_file": "Fur_elise_53__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_53.wav",
+    "output_file": "Fur_elise_53__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_56.wav",
+    "output_file": "Fur_elise_56__pitch_down_1.wav",
+    "pitch_label": "down_1",
+    "pitch_value": -1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_56.wav",
+    "output_file": "Fur_elise_56__pitch_down_0_5.wav",
+    "pitch_label": "down_0_5",
+    "pitch_value": -0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_56.wav",
+    "output_file": "Fur_elise_56__pitch_center.wav",
+    "pitch_label": "center",
+    "pitch_value": 0.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_56.wav",
+    "output_file": "Fur_elise_56__pitch_up_0_5.wav",
+    "pitch_label": "up_0_5",
+    "pitch_value": 0.5,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  },
+  {
+    "source_file": "Fur_elise_56.wav",
+    "output_file": "Fur_elise_56__pitch_up_1.wav",
+    "pitch_label": "up_1",
+    "pitch_value": 1.0,
+    "crop_start_sec": 0.0,
+    "clip_duration_sec": 1.9,
+    "sample_rate": 44100,
+    "annotation_frames": 142
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "parameter_1": {
+    "name": "pitch_shift",
+    "type": "continuous",
+    "unit": "semitones",
+    "min": -1.0,
+    "max": 1.0
+  }
+}

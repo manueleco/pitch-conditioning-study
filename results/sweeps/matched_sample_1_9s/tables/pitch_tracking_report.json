@@ -1,0 +1,122 @@
+{
+  "models": {
+    "continuous": {
+      "num_files": 7,
+      "monotonic_discrete_sweep": {
+        "ordered_median_hz": [
+          [
+            "down_1",
+            623.0697299641612
+          ],
+          [
+            "down_0_5",
+            629.2324308701463
+          ],
+          [
+            "center",
+            663.3879234033916
+          ],
+          [
+            "up_0_5",
+            665.0443539569035
+          ],
+          [
+            "up_1",
+            692.8854803061647
+          ]
+        ],
+        "is_monotonic": true
+      },
+      "continuous_interpolation": {
+        "ordered_median_hz": [
+          [
+            "down_1",
+            623.0697299641612
+          ],
+          [
+            "down_0_5",
+            629.2324308701463
+          ],
+          [
+            "center",
+            663.3879234033916
+          ],
+          [
+            "up_0_25",
+            661.7914036040456
+          ],
+          [
+            "up_0_5",
+            665.0443539569035
+          ],
+          [
+            "up_0_75",
+            679.2214777808509
+          ],
+          [
+            "up_1",
+            692.8854803061647
+          ]
+        ],
+        "is_monotonic": false,
+        "up_0_25_between_neighbors": false,
+        "up_0_75_between_neighbors": true
+      }
+    },
+    "categorical": {
+      "num_files": 5,
+      "monotonic_discrete_sweep": {
+        "ordered_median_hz": [
+          [
+            "down_1",
+            621.2059472087992
+          ],
+          [
+            "down_0_5",
+            622.6836741743164
+          ],
+          [
+            "center",
+            656.5003381767452
+          ],
+          [
+            "up_0_5",
+            664.3332344776593
+          ],
+          [
+            "up_1",
+            681.0198357793766
+          ]
+        ],
+        "is_monotonic": true
+      },
+      "continuous_interpolation": {
+        "ordered_median_hz": [
+          [
+            "down_1",
+            621.2059472087992
+          ],
+          [
+            "down_0_5",
+            622.6836741743164
+          ],
+          [
+            "center",
+            656.5003381767452
+          ],
+          [
+            "up_0_5",
+            664.3332344776593
+          ],
+          [
+            "up_1",
+            681.0198357793766
+          ]
+        ],
+        "is_monotonic": true,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    }
+  }
+}

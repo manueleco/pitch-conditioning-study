@@ -1,0 +1,40 @@
+@startuml
+title Main study components
+
+package "Data" {
+  [Base dataset]
+  [Continuous and categorical variants]
+}
+
+package "Pipeline" {
+  [Normalization]
+  [EnCodec]
+  [Sidecars]
+  [HF dataset]
+}
+
+package "Modeling" {
+  [RNeNcodec]
+  [Training]
+  [Inference]
+}
+
+package "Documentation" {
+  [Paper]
+  [Diagrams]
+  [Results]
+}
+
+[Base dataset] --> [Continuous and categorical variants]
+[Continuous and categorical variants] --> [Normalization]
+[Normalization] --> [EnCodec]
+[EnCodec] --> [Sidecars]
+[Sidecars] --> [HF dataset]
+[HF dataset] --> [RNeNcodec]
+[RNeNcodec] --> [Training]
+[Training] --> [Inference]
+[Inference] --> [Results]
+[Results] --> [Paper]
+[Diagrams] --> [Paper]
+
+@enduml

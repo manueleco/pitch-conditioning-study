@@ -1,0 +1,69 @@
+{
+  "duration_sec": 3.0,
+  "continuous_examples": [
+    {
+      "name": "continuous_down_1",
+      "params": {
+        "pitch_shift": -1.0
+      }
+    },
+    {
+      "name": "continuous_down_0_5",
+      "params": {
+        "pitch_shift": -0.5
+      }
+    },
+    {
+      "name": "continuous_center",
+      "params": {
+        "pitch_shift": 0.0
+      }
+    },
+    {
+      "name": "continuous_up_0_5",
+      "params": {
+        "pitch_shift": 0.5
+      }
+    },
+    {
+      "name": "continuous_up_1",
+      "params": {
+        "pitch_shift": 1.0
+      }
+    },
+    {
+      "name": "continuous_interp_up_0_25",
+      "params": {
+        "pitch_shift": 0.25
+      }
+    },
+    {
+      "name": "continuous_interp_up_0_75",
+      "params": {
+        "pitch_shift": 0.75
+      }
+    }
+  ],
+  "categorical_examples": [
+    {
+      "name": "categorical_down_1",
+      "label": "down_1"
+    },
+    {
+      "name": "categorical_down_0_5",
+      "label": "down_0_5"
+    },
+    {
+      "name": "categorical_center",
+      "label": "center"
+    },
+    {
+      "name": "categorical_up_0_5",
+      "label": "up_0_5"
+    },
+    {
+      "name": "categorical_up_1",
+      "label": "up_1"
+    }
+  ]
+}

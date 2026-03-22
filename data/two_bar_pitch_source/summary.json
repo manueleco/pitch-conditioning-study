@@ -1,0 +1,156 @@
+{
+  "config": {
+    "clip_duration_sec": 1.9,
+    "pre_roll_sec": 0.05,
+    "split_top_db": 35,
+    "fps": 75,
+    "seed": 7,
+    "excluded_files": [
+      "Fur_elise_57.wav",
+      "Fur_elise_58.wav",
+      "Fur_elise_59.wav",
+      "Fur_elise_60.wav"
+    ]
+  },
+  "levels": [
+    {
+      "label": "down_1",
+      "value": -1.0,
+      "display": "-1.0"
+    },
+    {
+      "label": "down_0_5",
+      "value": -0.5,
+      "display": "-0.5"
+    },
+    {
+      "label": "center",
+      "value": 0.0,
+      "display": "0.0"
+    },
+    {
+      "label": "up_0_5",
+      "value": 0.5,
+      "display": "0.5"
+    },
+    {
+      "label": "up_1",
+      "value": 1.0,
+      "display": "1.0"
+    }
+  ],
+  "splits": {
+    "train": {
+      "source_files": [
+        "Fur_elise_1.wav",
+        "Fur_elise_9.wav",
+        "Fur_elise_11.wav",
+        "Fur_elise_12.wav",
+        "Fur_elise_17.wav",
+        "Fur_elise_20.wav",
+        "Fur_elise_22.wav",
+        "Fur_elise_23.wav",
+        "Fur_elise_25.wav",
+        "Fur_elise_30.wav",
+        "Fur_elise_32.wav",
+        "Fur_elise_34.wav",
+        "Fur_elise_37.wav",
+        "Fur_elise_39.wav",
+        "Fur_elise_43.wav",
+        "Fur_elise_44.wav",
+        "Fur_elise_47.wav",
+        "Fur_elise_49.wav",
+        "Fur_elise_54.wav",
+        "Fur_elise_55.wav"
+      ],
+      "num_source_files": 20,
+      "num_generated_files": 100,
+      "pitch_counts": {
+        "down_1": 20,
+        "down_0_5": 20,
+        "center": 20,
+        "up_0_5": 20,
+        "up_1": 20
+      },
+      "metadata_file": "metadata_train.json"
+    },
+    "validation": {
+      "source_files": [
+        "Fur_elise_13.wav",
+        "Fur_elise_18.wav",
+        "Fur_elise_45.wav",
+        "Fur_elise_48.wav",
+        "Fur_elise_50.wav"
+      ],
+      "num_source_files": 5,
+      "num_generated_files": 25,
+      "pitch_counts": {
+        "down_1": 5,
+        "down_0_5": 5,
+        "center": 5,
+        "up_0_5": 5,
+        "up_1": 5
+      },
+      "metadata_file": "metadata_validation.json"
+    },
+    "test": {
+      "source_files": [
+        "Fur_elise_2.wav",
+        "Fur_elise_19.wav",
+        "Fur_elise_29.wav",
+        "Fur_elise_31.wav",
+        "Fur_elise_40.wav"
+      ],
+      "num_source_files": 5,
+      "num_generated_files": 25,
+      "pitch_counts": {
+        "down_1": 5,
+        "down_0_5": 5,
+        "center": 5,
+        "up_0_5": 5,
+        "up_1": 5
+      },
+      "metadata_file": "metadata_test.json"
+    }
+  },
+  "showcase": {
+    "source_files": [
+      "Fur_elise_3.wav",
+      "Fur_elise_4.wav",
+      "Fur_elise_5.wav",
+      "Fur_elise_6.wav",
+      "Fur_elise_7.wav",
+      "Fur_elise_8.wav",
+      "Fur_elise_10.wav",
+      "Fur_elise_14.wav",
+      "Fur_elise_15.wav",
+      "Fur_elise_16.wav",
+      "Fur_elise_21.wav",
+      "Fur_elise_24.wav",
+      "Fur_elise_26.wav",
+      "Fur_elise_27.wav",
+      "Fur_elise_28.wav",
+      "Fur_elise_33.wav",
+      "Fur_elise_35.wav",
+      "Fur_elise_36.wav",
+      "Fur_elise_38.wav",
+      "Fur_elise_41.wav",
+      "Fur_elise_42.wav",
+      "Fur_elise_46.wav",
+      "Fur_elise_51.wav",
+      "Fur_elise_52.wav",
+      "Fur_elise_53.wav",
+      "Fur_elise_56.wav"
+    ],
+    "num_source_files": 26,
+    "num_generated_files": 130,
+    "pitch_counts": {
+      "down_1": 26,
+      "down_0_5": 26,
+      "center": 26,
+      "up_0_5": 26,
+      "up_1": 26
+    },
+    "metadata_file": "metadata_showcase.json"
+  }
+}

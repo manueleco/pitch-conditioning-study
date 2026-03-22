@@ -1,0 +1,13 @@
+model,file,duration_sec,median_hz,mean_hz,std_hz,voiced_frames,params
+continuous,continuous_down_1.wav,3.0,623.5620022856606,610.803698162243,81.30682006528465,141,"{""pitch_shift"": -1.0}"
+continuous,continuous_down_0_5.wav,3.0,634.4245912553304,636.7980633093036,14.68901086772486,141,"{""pitch_shift"": -0.5}"
+continuous,continuous_center.wav,3.0,655.7424384020809,651.0097301062357,13.079208971274612,141,"{""pitch_shift"": 0.0}"
+continuous,continuous_up_0_5.wav,3.0,671.1584234595863,674.4111095043069,10.818173899870276,141,"{""pitch_shift"": 0.5}"
+continuous,continuous_up_1.wav,3.0,695.7281813189494,693.1306142124895,8.492186101293541,141,"{""pitch_shift"": 1.0}"
+continuous,continuous_interp_up_0_25.wav,3.0,667.2536918963709,670.7919086166478,10.315063237630776,141,"{""pitch_shift"": 0.25}"
+continuous,continuous_interp_up_0_75.wav,3.0,677.8212433050261,678.2265758822423,31.277091294747564,141,"{""pitch_shift"": 0.75}"
+categorical,categorical_down_1.wav,3.0,622.5748163946049,619.9981132065324,8.432233980004785,141,"{""pitch_shift_down_1"": 1.0, ""pitch_shift_down_0_5"": 0.0, ""pitch_shift_center"": 0.0, ""pitch_shift_up_0_5"": 0.0, ""pitch_shift_up_1"": 0.0}"
+categorical,categorical_down_0_5.wav,3.0,640.9452822042123,639.7530783898819,14.243312423284614,141,"{""pitch_shift_down_1"": 0.0, ""pitch_shift_down_0_5"": 1.0, ""pitch_shift_center"": 0.0, ""pitch_shift_up_0_5"": 0.0, ""pitch_shift_up_1"": 0.0}"
+categorical,categorical_center.wav,3.0,658.8859972949521,654.6333225324173,11.929387369584537,141,"{""pitch_shift_down_1"": 0.0, ""pitch_shift_down_0_5"": 0.0, ""pitch_shift_center"": 1.0, ""pitch_shift_up_0_5"": 0.0, ""pitch_shift_up_1"": 0.0}"
+categorical,categorical_up_0_5.wav,3.0,656.8517713931473,659.0277293368164,18.25096415435506,141,"{""pitch_shift_down_1"": 0.0, ""pitch_shift_down_0_5"": 0.0, ""pitch_shift_center"": 0.0, ""pitch_shift_up_0_5"": 1.0, ""pitch_shift_up_1"": 0.0}"
+categorical,categorical_up_1.wav,3.0,673.0038038064074,654.1669279995282,86.71672113458082,141,"{""pitch_shift_down_1"": 0.0, ""pitch_shift_down_0_5"": 0.0, ""pitch_shift_center"": 0.0, ""pitch_shift_up_0_5"": 0.0, ""pitch_shift_up_1"": 1.0}"

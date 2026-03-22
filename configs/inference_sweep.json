@@ -1,0 +1,47 @@
+{
+  "seed_base": 7,
+  "continuous_model": "two_bar_continuous_long",
+  "categorical_model": "two_bar_categorical_long",
+  "profiles": [
+    {
+      "name": "baseline_sample_3s",
+      "duration_sec": 3.0,
+      "hard_sample_mode": "sample",
+      "temperature": 0.8,
+      "top_n": 8
+    },
+    {
+      "name": "matched_sample_1_9s",
+      "duration_sec": 1.9,
+      "hard_sample_mode": "sample",
+      "temperature": 0.8,
+      "top_n": 8
+    },
+    {
+      "name": "cool_sample_1_9s",
+      "duration_sec": 1.9,
+      "hard_sample_mode": "sample",
+      "temperature": 0.6,
+      "top_n": 6
+    },
+    {
+      "name": "conservative_sample_1_9s",
+      "duration_sec": 1.9,
+      "hard_sample_mode": "sample",
+      "temperature": 0.4,
+      "top_n": 4
+    },
+    {
+      "name": "argmax_1_9s",
+      "duration_sec": 1.9,
+      "hard_sample_mode": "argmax"
+    },
+    {
+      "name": "balanced_sample_1_9s",
+      "duration_sec": 1.9,
+      "hard_sample_mode": "sample",
+      "temperature": 0.7,
+      "top_n": 8
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[project]
+name = "pitch-conditioning-study"
+version = "0.1.0"
+description = "Experimentos de condicionamiento de pitch sobre RNeNcodec y EnCodec"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = [".", "src"]
+include = ["rnencodec*", "pitch_conditioning_study*"]
+

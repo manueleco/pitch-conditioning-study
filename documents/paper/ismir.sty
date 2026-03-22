@@ -1,0 +1,126 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{ismir}[2025/03/22 Local ISMIR 2025 style]
+
+\newcommand{\conferenceyear}{2025}
+\newcommand{\conferenceordinal}{26th}
+\newcommand{\conferencecity}{Daejeon, South Korea}
+\newcommand{\pdfsubject}{Proceedings of the \conferenceordinal\ International Society for Music Information Retrieval Conference}
+
+\newif\ifismirsubmission
+\ismirsubmissionfalse
+\DeclareOption{submission}{\ismirsubmissiontrue}
+\ProcessOptions\relax
+
+\RequirePackage[a4paper,top=2.0cm,bottom=2.5cm,left=1.9cm,right=1.9cm]{geometry}
+\ifismirsubmission
+  \RequirePackage{lineno}
+\fi
+\RequirePackage{mathptmx}
+
+\setlength{\columnsep}{0.8cm}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\footskip}{12pt}
+\pagestyle{empty}
+\pagenumbering{gobble}
+
+\newcommand{\figref}[1]{Figure~\ref{#1}}
+\newcommand{\tabref}[1]{Table~\ref{#1}}
+\newcommand{\eqnref}[1]{(\ref{#1})}
+
+\def\authorname{}
+\def\ismir@authorblock{}
+
+\newcommand{\oneauthor}[2]{%
+  \gdef\ismir@authorblock{%
+    {\normalsize\bfseries #1\par}%
+    \vspace{0.25em}%
+    {\normalsize #2\par}%
+  }%
+}
+
+\newcommand{\twoauthors}[4]{%
+  \gdef\ismir@authorblock{%
+    \begin{tabular*}{0.9\textwidth}{@{\extracolsep{\fill}}cc}
+      \textbf{#1} & \textbf{#3} \\
+      #2 & #4
+    \end{tabular*}\par
+  }%
+}
+
+\newcommand{\threeauthors}[6]{%
+  \gdef\ismir@authorblock{%
+    \begin{tabular*}{0.95\textwidth}{@{\extracolsep{\fill}}ccc}
+      \textbf{#1} & \textbf{#3} & \textbf{#5} \\
+      #2 & #4 & #6
+    \end{tabular*}\par
+  }%
+}
+
+\newcommand{\multauthor}[2]{%
+  \gdef\ismir@authorblock{%
+    {\normalsize #1\par}%
+    \vspace{0.25em}%
+    {\normalsize #2\par}%
+  }%
+}
+
+\makeatletter
+
+\renewcommand\section{%
+  \@startsection{section}{1}{\z@}
+  {1.25ex plus 0.2ex minus 0.2ex}
+  {0.75ex}
+  {\centering\normalfont\normalsize\bfseries}%
+}
+
+\renewcommand\subsection{%
+  \@startsection{subsection}{2}{\z@}
+  {1.0ex plus 0.2ex minus 0.2ex}
+  {0.5ex}
+  {\normalfont\normalsize\bfseries}%
+}
+
+\renewcommand\subsubsection{%
+  \@startsection{subsubsection}{3}{\z@}
+  {0.75ex plus 0.2ex minus 0.2ex}
+  {0.4ex}
+  {\normalfont\normalsize\itshape}%
+}
+
+\renewcommand\maketitle{%
+  \twocolumn[{%
+    \begin{center}
+      \vspace*{-1.2em}%
+      {\fontsize{14}{16}\selectfont\bfseries\MakeUppercase{\@title}\par}%
+      \vspace{0.9em}%
+      \ifismirsubmission
+        {\normalsize\bfseries Anonymous Authors\par}%
+        \vspace{0.25em}%
+        {\normalsize Anonymous Affiliations\par}%
+      \else
+        \ismir@authorblock
+      \fi
+      \vspace{1.0em}%
+    \end{center}
+  }]%
+  \ifismirsubmission
+    \linenumbers
+  \fi
+  \thispagestyle{empty}%
+}
+
+\renewenvironment{abstract}{%
+  \begin{center}\bfseries ABSTRACT\end{center}
+  \normalsize
+  \noindent
+}{%
+  \par
+  \vspace{0.8em}
+}
+
+\renewcommand{\refname}{REFERENCES}
+
+\makeatother

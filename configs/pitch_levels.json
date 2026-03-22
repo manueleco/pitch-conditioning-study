@@ -1,0 +1,32 @@
+{
+  "parameter_name": "pitch_shift",
+  "unit": "semitones",
+  "levels": [
+    {
+      "value": -1.0,
+      "label": "down_1",
+      "display": "-1.0"
+    },
+    {
+      "value": -0.5,
+      "label": "down_0_5",
+      "display": "-0.5"
+    },
+    {
+      "value": 0.0,
+      "label": "center",
+      "display": "0.0"
+    },
+    {
+      "value": 0.5,
+      "label": "up_0_5",
+      "display": "0.5"
+    },
+    {
+      "value": 1.0,
+      "label": "up_1",
+      "display": "1.0"
+    }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "parameter_1": {
+    "name": "pitch_shift",
+    "type": "class",
+    "unit": "semitones",
+    "classes": [
+      "down_1",
+      "down_0_5",
+      "center",
+      "up_0_5",
+      "up_1"
+    ]
+  }
+}

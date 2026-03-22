@@ -1,0 +1,36 @@
+{
+  "reference_center_train": {
+    "num_files": 20,
+    "onset_rms_ratio_mean": 0.07858000141170214,
+    "onset_centroid_ratio_mean": 4.978060616329914,
+    "onset_flatness_ratio_mean": 570.392609736729,
+    "onset_high_band_ratio_mean": 6.557486109366394
+  },
+  "models": {
+    "continuous": {
+      "num_files": 7,
+      "pitch_mae_discrete_semitones": 0.06469136979787175,
+      "pitch_mae_all_semitones": 0.07877474476553216,
+      "pitch_stability_mean_semitones": 1.1898769198674424,
+      "onset_rms_ratio_mean": 2.2405406280737967,
+      "onset_centroid_ratio_mean": 1.2166365450518561,
+      "onset_flatness_ratio_mean": 7.567534210682468,
+      "onset_high_band_ratio_mean": 1.3581697360590872
+    },
+    "categorical": {
+      "num_files": 5,
+      "pitch_mae_discrete_semitones": 0.24543820407271966,
+      "pitch_mae_all_semitones": 0.24543820407271966,
+      "pitch_stability_mean_semitones": 1.0192400331050364,
+      "onset_rms_ratio_mean": 1.3757417981538054,
+      "onset_centroid_ratio_mean": 1.3466511217692605,
+      "onset_flatness_ratio_mean": 7.856143321531162,
+      "onset_high_band_ratio_mean": 1.4849079852065323
+    }
+  },
+  "figures": {
+    "pitch_response_curve": "results/figures_test/pitch_response_curve.png",
+    "onset_metric_comparison": "results/figures_test/onset_metric_comparison.png",
+    "onset_stft_examples": "results/figures_test/onset_stft_examples.png"
+  }
+}

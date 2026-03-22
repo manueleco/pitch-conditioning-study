@@ -1,0 +1,36 @@
+{
+  "reference_center_train": {
+    "num_files": 20,
+    "onset_rms_ratio_mean": 0.07858000141170214,
+    "onset_centroid_ratio_mean": 4.978060616329914,
+    "onset_flatness_ratio_mean": 570.392609736729,
+    "onset_high_band_ratio_mean": 6.557486109366394
+  },
+  "models": {
+    "continuous": {
+      "num_files": 7,
+      "pitch_mae_discrete_semitones": 0.2408564410746175,
+      "pitch_mae_all_semitones": 0.26252065809293007,
+      "pitch_stability_mean_semitones": 1.5103511104412088,
+      "onset_rms_ratio_mean": 4.444178852235516,
+      "onset_centroid_ratio_mean": 2.1458116955928728,
+      "onset_flatness_ratio_mean": 24.825885522940816,
+      "onset_high_band_ratio_mean": 3.1938495083958145
+    },
+    "categorical": {
+      "num_files": 5,
+      "pitch_mae_discrete_semitones": 0.2237434875935273,
+      "pitch_mae_all_semitones": 0.2237434875935273,
+      "pitch_stability_mean_semitones": 4.533753946831956,
+      "onset_rms_ratio_mean": 2.7541832559139507,
+      "onset_centroid_ratio_mean": 2.4261836257847396,
+      "onset_flatness_ratio_mean": 41.424094259290605,
+      "onset_high_band_ratio_mean": 4.321836930382397
+    }
+  },
+  "figures": {
+    "pitch_response_curve": "/Users/meco/MBP Files/Gits/upf/GA/pitch-conditioning-study/results/sweeps/matched_sample_1_9s/figures/pitch_response_curve.png",
+    "onset_metric_comparison": "/Users/meco/MBP Files/Gits/upf/GA/pitch-conditioning-study/results/sweeps/matched_sample_1_9s/figures/onset_metric_comparison.png",
+    "onset_stft_examples": "/Users/meco/MBP Files/Gits/upf/GA/pitch-conditioning-study/results/sweeps/matched_sample_1_9s/figures/onset_stft_examples.png"
+  }
+}

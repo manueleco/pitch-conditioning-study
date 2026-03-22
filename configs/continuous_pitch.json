@@ -1,0 +1,12 @@
+{
+  "name": "continuous_pitch",
+  "dataset_root": "data/two_bar_continuous_pitch",
+  "conditioning_mode": "continuous",
+  "source_dataset": "data/two_bar_pitch_source/raw",
+  "epochs_recommended": 8,
+  "sequence_length": 100,
+  "notes": [
+    "Usar exactamente el mismo audio que en la version categorica",
+    "Mantener la misma arquitectura y el mismo regimen de entrenamiento"
+  ]
+}

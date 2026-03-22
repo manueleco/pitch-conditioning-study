@@ -1,0 +1,31 @@
+@startuml
+title Preparation and training flow
+
+actor User
+participant "build_pitch_conditioning_variants.py" as Builder
+participant "dataprep" as Dataprep
+participant "step_2_encodec.py" as Encodec
+participant "step_3_sidecars.py" as Sidecars
+participant "step_4_HF.py" as HF
+participant "training/loop.py" as Train
+
+User -> Builder: create continuous and categorical variants
+Builder -> Builder: quantize pitch and rewrite CSV
+Builder --> User: raw datasets prepared
+
+User -> Dataprep: normalize dataset
+Dataprep --> User: normalized dataset
+
+User -> Encodec: tokenize audio
+Encodec --> User: .ecdc files
+
+User -> Sidecars: create cond.npy
+Sidecars --> User: sidecars ready
+
+User -> HF: build hf_dataset
+HF --> User: dataset ready for training
+
+User -> Train: train model
+Train --> User: checkpoints and logs
+
+@enduml

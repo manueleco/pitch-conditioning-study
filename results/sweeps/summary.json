@@ -1,0 +1,197 @@
+{
+  "seed_base": 7,
+  "continuous_model": "two_bar_continuous_long",
+  "categorical_model": "two_bar_categorical_long",
+  "profiles": [
+    {
+      "profile": "baseline_sample_3s",
+      "settings": {
+        "name": "baseline_sample_3s",
+        "duration_sec": 3.0,
+        "hard_sample_mode": "sample",
+        "temperature": 0.8,
+        "top_n": 8
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 0.2163106089459516,
+        "pitch_mae_all_semitones": 0.23280244342083617,
+        "pitch_stability_mean_semitones": 1.2345519147166875,
+        "onset_rms_ratio_mean": 4.444178852235516,
+        "onset_flatness_ratio_mean": 24.825885522940816,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": false,
+        "up_0_75_between_neighbors": true
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 0.2447129468700057,
+        "pitch_mae_all_semitones": 0.2447129468700057,
+        "pitch_stability_mean_semitones": 3.6499330192730626,
+        "onset_rms_ratio_mean": 2.7541832559139507,
+        "onset_flatness_ratio_mean": 41.424094259290605,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": true,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    },
+    {
+      "profile": "matched_sample_1_9s",
+      "settings": {
+        "name": "matched_sample_1_9s",
+        "duration_sec": 1.9,
+        "hard_sample_mode": "sample",
+        "temperature": 0.8,
+        "top_n": 8
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 0.2408564410746175,
+        "pitch_mae_all_semitones": 0.26252065809293007,
+        "pitch_stability_mean_semitones": 1.5103511104412088,
+        "onset_rms_ratio_mean": 4.444178852235516,
+        "onset_flatness_ratio_mean": 24.825885522940816,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": false,
+        "up_0_75_between_neighbors": true
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 0.2237434875935273,
+        "pitch_mae_all_semitones": 0.2237434875935273,
+        "pitch_stability_mean_semitones": 4.533753946831956,
+        "onset_rms_ratio_mean": 2.7541832559139507,
+        "onset_flatness_ratio_mean": 41.424094259290605,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": true,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    },
+    {
+      "profile": "cool_sample_1_9s",
+      "settings": {
+        "name": "cool_sample_1_9s",
+        "duration_sec": 1.9,
+        "hard_sample_mode": "sample",
+        "temperature": 0.6,
+        "top_n": 6
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 0.13060478548614735,
+        "pitch_mae_all_semitones": 0.11725879355512846,
+        "pitch_stability_mean_semitones": 2.1478937301001992,
+        "onset_rms_ratio_mean": 4.581148109341852,
+        "onset_flatness_ratio_mean": 35.38591593335225,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": true,
+        "up_0_25_between_neighbors": true,
+        "up_0_75_between_neighbors": true
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 1.9722733353260218,
+        "pitch_mae_all_semitones": 1.9722733353260218,
+        "pitch_stability_mean_semitones": 3.1784770264411186,
+        "onset_rms_ratio_mean": 2.4742600139204876,
+        "onset_flatness_ratio_mean": 49.16198309080727,
+        "monotonic_discrete_sweep": false,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    },
+    {
+      "profile": "conservative_sample_1_9s",
+      "settings": {
+        "name": "conservative_sample_1_9s",
+        "duration_sec": 1.9,
+        "hard_sample_mode": "sample",
+        "temperature": 0.4,
+        "top_n": 4
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 0.47969616367688384,
+        "pitch_mae_all_semitones": 0.6318242224425173,
+        "pitch_stability_mean_semitones": 2.956061434064357,
+        "onset_rms_ratio_mean": 2.986360681092958,
+        "onset_flatness_ratio_mean": 50.638026356676264,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": true,
+        "up_0_75_between_neighbors": false
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 0.7372585831922316,
+        "pitch_mae_all_semitones": 0.7372585831922316,
+        "pitch_stability_mean_semitones": 1.7283954084212305,
+        "onset_rms_ratio_mean": 2.9091931767893895,
+        "onset_flatness_ratio_mean": 40.59031594176385,
+        "monotonic_discrete_sweep": false,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    },
+    {
+      "profile": "argmax_1_9s",
+      "settings": {
+        "name": "argmax_1_9s",
+        "duration_sec": 1.9,
+        "hard_sample_mode": "argmax"
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 29.803877213574005,
+        "pitch_mae_all_semitones": 31.971494469811603,
+        "pitch_stability_mean_semitones": 3.9931896196396104,
+        "onset_rms_ratio_mean": 4.370997550648693,
+        "onset_flatness_ratio_mean": 33.31869281312924,
+        "monotonic_discrete_sweep": false,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": true,
+        "up_0_75_between_neighbors": true
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 6.8006981028984725,
+        "pitch_mae_all_semitones": 6.8006981028984725,
+        "pitch_stability_mean_semitones": 4.746231871424242,
+        "onset_rms_ratio_mean": 4.20893715769086,
+        "onset_flatness_ratio_mean": 51.038449054573825,
+        "monotonic_discrete_sweep": false,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    },
+    {
+      "profile": "balanced_sample_1_9s",
+      "settings": {
+        "name": "balanced_sample_1_9s",
+        "duration_sec": 1.9,
+        "hard_sample_mode": "sample",
+        "temperature": 0.7,
+        "top_n": 8
+      },
+      "continuous": {
+        "pitch_mae_discrete_semitones": 0.1613948903195362,
+        "pitch_mae_all_semitones": 0.1247491405249039,
+        "pitch_stability_mean_semitones": 0.6083716611837796,
+        "onset_rms_ratio_mean": 3.9780281759517115,
+        "onset_flatness_ratio_mean": 29.19979327259237,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": false,
+        "up_0_25_between_neighbors": false,
+        "up_0_75_between_neighbors": true
+      },
+      "categorical": {
+        "pitch_mae_discrete_semitones": 0.26321690240066087,
+        "pitch_mae_all_semitones": 0.26321690240066087,
+        "pitch_stability_mean_semitones": 4.278300997694737,
+        "onset_rms_ratio_mean": 2.873051726777059,
+        "onset_flatness_ratio_mean": 25.062402648637363,
+        "monotonic_discrete_sweep": true,
+        "interpolation_monotonic": true,
+        "up_0_25_between_neighbors": null,
+        "up_0_75_between_neighbors": null
+      }
+    }
+  ]
+}

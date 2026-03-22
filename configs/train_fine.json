@@ -1,0 +1,41 @@
+{
+  "seed": 7,
+  "device": "cpu",
+  "continuous_model_name": "two_bar_continuous_fine",
+  "categorical_model_name": "two_bar_categorical_fine",
+  "continuous_resume_from": "two_bar_continuous_long",
+  "categorical_resume_from": "two_bar_categorical_long",
+  "num_epochs": 12,
+  "batch_size": 16,
+  "sequence_length": 100,
+  "batches_per_epoch": 20,
+  "learning_rate": 0.0008,
+  "hidden_size": 96,
+  "num_layers": 2,
+  "cascade_mode": "hard",
+  "temperature": 0.8,
+  "top_n": 8,
+  "tau_soft": 0.6,
+  "save_interval": 2,
+  "val_interval": 1,
+  "early_stopping_patience": 4,
+  "early_stopping_min_delta": 0.01,
+  "restore_best_checkpoint": true,
+  "files_per_sequence": 2,
+  "add_noise": false,
+  "noise_weight": 0.0,
+  "dropout": 0.1,
+  "use_tensorboard": true,
+  "use_tqdm": false,
+  "train_splits": [
+    "train"
+  ],
+  "val_splits": [
+    "validation"
+  ],
+  "TF_schedule": [
+    100,
+    0
+  ],
+  "simulate_parallel": false
+}
