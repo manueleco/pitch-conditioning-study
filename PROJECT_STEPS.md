@@ -2,7 +2,7 @@
 
 ## Contexto general
 
-Proyecto iniciado el **22 de marzo de 2026** para convertir el trabajo previo de `classnn-manueleco`, `encodec-manueleco` y `dataset-creation-llamita` en un estudio mas compacto y presentable.
+Proyecto iniciado a mediados de marzo de 2026 para convertir el trabajo previo de `classnn-manueleco`, `encodec-manueleco` y `dataset-creation-llamita` en un estudio mas compacto y presentable.
 
 ## Pregunta principal
 
